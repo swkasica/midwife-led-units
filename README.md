@@ -11,6 +11,7 @@ We also spoke to the Birth Trauma Association, The Royal College of Midwives (RC
 ## Data
 
 * A [Google spreadsheet of the data obtained through FOI can be found here](https://docs.google.com/spreadsheets/d/1kxqDkNrrEyZFmUZiPqxW_gH4iYCDnf6Hkge5S1oglvg/edit#gid=0)
+* The same data is [available in CSV format here](https://github.com/BBC-Data-Unit/midwife-led-units/blob/master/Midwife-led%20units%20BBC%20investigation.csv)
 
 ## Visualisation
 
