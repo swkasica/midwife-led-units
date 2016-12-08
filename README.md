@@ -6,6 +6,8 @@ In December we [reported that one in four women are transferred from midwife-led
 
 The story was based on Freedom of Information (FOI) requests to hospital trusts. 128 of 139 trusts responded. 
 
+The story focused on the years after the introduction of [guidance in December 2014 from The National Institute for Health and Care Excellence (NICE) recommending midwife-led units for low-risk births](https://www.nice.org.uk/guidance/CG190).
+
 We also spoke to the Birth Trauma Association, The Royal College of Midwives (RCM), the head of midwifery at Northumbria Healthcare NHS Foundation Trust, NHS England, and a number of women who had given birth in midwife-led units.
 
 ## Data
